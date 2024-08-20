@@ -1,0 +1,6 @@
+[submodule "GraphBLAS"]
+	path = GraphBLAS
+	url = https://github.com/DrTimothyAldenDavis/GraphBLAS.git
+[submodule "cuASR"]
+	path = cuASR
+	url = https://github.com/hpcgarage/cuASR.git
