@@ -7,9 +7,6 @@ function C = mplus(A, B)
 %   Otherwise, the number of columns of A must equal the number of rows of
 %   B. The output matrix is equal to C(i,j) = sum(A(:,i).' + B(:,j).
 %
-%   I bend over backwards here to do the type handling. In all honesty you
-%   should probably just stick to float
-%
 %   by Dillon Cislo 2024/08/20
 
 % Validate the number of inputs
